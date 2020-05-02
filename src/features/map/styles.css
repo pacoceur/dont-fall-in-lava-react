@@ -1,0 +1,15 @@
+.tile {
+    display: inline-flex;
+    background: black;
+    margin-bottom: -4px;
+}
+
+.metal {
+    background-image: url('/tiles/metal.png');
+    background-size: contain;
+}
+
+.lava {
+    background-image: url('/tiles/lava.png');
+    background-size: contain;
+}
